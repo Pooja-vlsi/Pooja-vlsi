@@ -16,3 +16,38 @@
 [![](https://visitcount.itsvg.in/api?id=Pooja-vlsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 Certifications & Achievements
+
+- **Smart India Hackathon 2024** - Certificate of Appreciation, Cambridge Institute of Technology
+- **Innovators Day 2025** - Participated in National Level 24-Hour Hackathon, Sri Manakula Vinayagar Engineering College
+- **VLSI Internship Offer** - CODTECH IT Solutions Pvt. Ltd. (Currently Interning)
+
+## 📚 Courses & Learning
+
+- **VLSI Design & RTL Simulation** - Hands-on experience with Xilinx Vivado
+- **Digital Logic Design** - Fundamentals and Advanced Concepts
+- **Embedded Systems** - Hardware Interfacing and Microcontroller Programming
+- **Machine Learning & Computer Vision** - PyTorch, YOLOv8, and Real-world Applications
+- **Rover Robotic Arm Development** - Hardware Integration and Control Systems
+
+## 💼 Professional Experience
+
+### VLSI Intern - CODTECH IT Solutions Pvt. Ltd.
+**Duration:** Currently Interning
+- RTL design and verification using Xilinx Vivado
+- Testbench creation and waveform analysis
+- Digital circuit simulation and optimization
+- Hands-on experience with FPGA design flow
+
+### Project Developer - Rover Robotic Arm
+**Technologies:** C++, Embedded Systems, Hardware Interfacing
+- Designed and developed a robotic arm with multiple degrees of freedom
+- Integrated hardware control systems and sensor feedback
+- Implemented real-time motion algorithms
+
+### Machine Learning Project Developer
+**Technologies:** Python, PyTorch, YOLOv8
+- Developed computer vision solutions using YOLO models
+- Implemented real-time object detection and tracking
+- Model training and optimization for edge devices
