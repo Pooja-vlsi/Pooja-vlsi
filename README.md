@@ -1,18 +1,18 @@
+# 💫 About Me:
+🎓 ECE Student | VLSI Design & Embedded Systems Enthusiast<br>🚀 Passionate about Hardware Design, RTL Simulation, and Robotics<br>💻 VLSI Intern at CODTECH IT Solutions Pvt. Ltd.<br>🤖 Rover Robotic Arm Developer | Machine Learning Explorer<br>🏆 Innovators Day 2025 Hackathon Participant<br>🔧 Xilinx Vivado | Python | C++ | Hardware Verification<br>📚 Currently Learning: Advanced VLSI Design & Hardware Security<br>💡 Open to collaborating on VLSI projects and embedded systems
 
-  <!--  Intro Section -->
-  Hi, I'm Pooja - a passionate Electronics and Communication Engineering (ECE) student with a strong focus on VLSI design, embedded systems, and digital logic. I'm experienced in RTL design using Verilog and SystemVerilog, with expertise in hardware simulation and design verification.
 
-✨ Key Interests:
-- VLSI & Semiconductor Design
-- RTL Implementation with Verilog/SystemVerilog
-- Embedded Systems & Hardware Design
-- Machine Learning & AI applications
-- Digital Logic & FPGA Development
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-pooja-658495297) 
 
-💻 Tech Stack: Verilog, SystemVerilog, Python, C/C++, MATLAB, Xilinx Vivado, MATLAB
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pooja-vlsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pooja-vlsi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-vlsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎯 Currently exploring advanced topics in hardware security and optimization techniques.
+---
+[![](https://visitcount.itsvg.in/api?id=Pooja-vlsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to check out my projects and connect with me on LinkedIn!
-  <!--  Intro Section -->
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
